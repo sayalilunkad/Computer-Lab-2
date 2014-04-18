@@ -19,5 +19,6 @@ Compile the server.c and client.c
 
 #Step 5
 Run the server and client
+
 			./server
 			./client
