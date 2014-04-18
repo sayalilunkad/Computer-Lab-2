@@ -1,1 +1,1 @@
-Program for synchronization of logical clock using Lamport’s algorithm. 
+###Program for synchronization of logical clock using Lamport’s algorithm. 
