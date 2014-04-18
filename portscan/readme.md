@@ -18,8 +18,10 @@ Compile the server.c and client.c
 		gcc -o port_client client.c echo_clnt.c echo_xdr.c
 ##Step 6
 Run the executables
+
 		./server
 		./client IP
+		
 
 IP can be the IP adress of any machine.
  
