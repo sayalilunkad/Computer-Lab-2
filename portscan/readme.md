@@ -20,6 +20,7 @@ Compile the server.c and client.c
 Run the executables
 		./server
 		./client IP
+
 IP can be the IP adress of any machine.
  
  
