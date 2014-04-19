@@ -14,6 +14,7 @@ Check if portmap is installed. If not
 		sudo -i service portmap start
 ##Step 5
 Compile the server.c and client.c
+
 		gcc -o server port_server.c port_svc.c port_xdr.c 
 		gcc -o port_client client.c echo_clnt.c echo_xdr.c
 ##Step 6
