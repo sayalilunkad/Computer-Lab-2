@@ -1,6 +1,6 @@
-This program builds a echo server.
+###This program builds a echo server.
 ##Step 1
-Write the .x file which is the default file for RPCGENinput files.
+Write the .x file which is the default file for RPCGEN input files.
 
 ##Step 2
 
