@@ -1,7 +1,7 @@
-This program builds a multi-threaded echo server.
+###This program builds a multi-threaded echo server.
 
 ##Step 1
-Write the .x file which is the default file for RPCGENinput files.
+Write the .x file which is the default file for RPCGEN input files.
 
 ##Step 2
 For multi-threading applications run the .X with -M
